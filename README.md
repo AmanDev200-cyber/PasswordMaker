@@ -1,4 +1,4 @@
-🛡️ Secure Password Toolkit
+## 🛡️ Secure Password Toolkit
 
 A client-side, privacy-focused web application to check password strength and generate a secure, non-reversible SHA-256 hash. This tool operates entirely within your browser, ensuring that no sensitive password data is ever transmitted or stored on any server.
 
@@ -67,3 +67,5 @@ Web Crypto API
 🎯 Why This Project?
 
 This project serves as a practical example of client-side security tools and modern front-end development practices. It demonstrates how powerful, secure, and privacy-respecting applications can be built without a backend, empowering users to manage their data securely.
+
+### Site Link :  https://amandev200-cyber.github.io/PasswordMaker/
