@@ -1,5 +1,6 @@
 ## 🛡️ Secure Password Toolkit
 Link : https://amandev200-cyber.github.io/PasswordMaker/
+
 A client-side, privacy-focused web application to check password strength and generate a secure, non-reversible SHA-256 hash. This tool operates entirely within your browser, ensuring that no sensitive password data is ever transmitted or stored on any server.
 
 ✨ Features
